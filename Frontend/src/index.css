@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Raleway";
+  color: rgb(0, 0, 0);
+}
+
+body,
+html {
+  background-color: blue;
+  min-height: 100vh;
+  height: 100%;
+  background-color: #40d2ff;
+}
+
+img {
+  max-width: 200%;
+}

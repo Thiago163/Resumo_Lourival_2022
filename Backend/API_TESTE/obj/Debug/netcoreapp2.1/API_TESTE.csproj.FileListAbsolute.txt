@@ -1,0 +1,50 @@
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.deps.json
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.runtimeconfig.json
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.runtimeconfig.dev.json
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.dll
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.csprojAssemblyReference.cache
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.csproj.CoreCompileInputs.cache
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorAssemblyInfo.cache
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorAssemblyInfo.cs
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.AssemblyInfoInputs.cache
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.AssemblyInfo.cs
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorTargetAssemblyInfo.cache
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.pdb
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.dll
+D:\home\Aluno\Desktop\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.pdb
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.deps.json
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.runtimeconfig.json
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.runtimeconfig.dev.json
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.dll
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.pdb
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.csproj.AssemblyReference.cache
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.AssemblyInfoInputs.cache
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.AssemblyInfo.cs
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.csproj.CoreCompileInputs.cache
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorAssemblyInfo.cache
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorAssemblyInfo.cs
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorTargetAssemblyInfo.cache
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.dll
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.pdb
+C:\Users\Luiz\Downloads\AtvPW3\Lukas DS\API_TESTE\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.genruntimeconfig.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.deps.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.runtimeconfig.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.runtimeconfig.dev.json
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\bin\Debug\netcoreapp2.1\API_TESTE.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.csproj.AssemblyReference.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.AssemblyInfoInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.AssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.csproj.CoreCompileInputs.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorAssemblyInfo.cs
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.RazorTargetAssemblyInfo.cache
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.dll
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.pdb
+C:\Users\ggina\OneDrive\Área de Trabalho\Resumo_2022_Lourival\API_TESTE\obj\Debug\netcoreapp2.1\API_TESTE.genruntimeconfig.cache
